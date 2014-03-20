@@ -1,4 +1,4 @@
-/* tiny-promise.js v1.0.0 Licensed under the MIT license. (c) rtsan */
+/* tiny-promise.js v1.0.0 Licensed under the MIT license. (c) 2014 rtsan */
 (function(root, factory) {
     if (typeof module !== 'undefined' &&
             typeof module.exports !== 'undefined') {
